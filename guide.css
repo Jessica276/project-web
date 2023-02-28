@@ -1,0 +1,109 @@
+a{
+    color: white;
+    }
+.gui{
+    text-align: center;
+    color: white;
+}
+.cr{
+    color: white;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.rgt{
+    border-radius: 10px 10px 10px 10px;
+}
+.bloc{
+    background-image: url("pdc1.jpg");
+    background-attachment: fixed;
+    background-position: top center;
+    width: 100%;
+    height: 570px;
+    margin-left: 0px;
+}
+.btn{
+    text-align: center;
+}
+.co{
+    background-color: red;
+    color: white;
+    border-color: red;
+}
+.vid{
+    color: white;
+}
+#bouton{
+    width: 15px;
+}
+
+nav li a{
+    text-decoration : none;
+}
+nav li{
+    display: inline-block;
+    width : 120px;
+    text-align: center;
+    line-height: 60px;
+}
+.rgt{
+    border: 3px solid white;
+}
+.droite{
+    float: right;
+}
+body{
+    width: 100%;
+}
+
+div{
+    margin-left: 50px;
+}
+.dp{
+    text-align: center;
+}
+.more{
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+.division{
+    display: flex;
+    border: 4px solid transparent;
+    text-align: center;
+
+}
+.division img{
+    width: 350px;
+}
+.division2{
+    display: flex;
+    border: 4px solid transparent;
+    text-align: center;
+
+}
+.division2 img{
+    width: 100px;
+}
+.division2 p{
+    opacity: 0.5;
+}
+footer{
+    display: flex;
+   
+}
+footer li{
+    text-decoration: none;
+    list-style-type: none;
+    margin-right: 100px;
+    
+}
+.perf{
+    text-align: center;
+}
+.o{
+    text-align: center;
+    opacity: 0.8;
+    font-size: 20px;
+}
+.btn a{
+    text-decoration: none;
+}
