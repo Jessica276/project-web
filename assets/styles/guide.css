@@ -14,7 +14,7 @@ a{
     border-radius: 10px 10px 10px 10px;
 }
 .bloc{
-    background-image: url("pdc1.jpg");
+    background-image: url("../images/pdc1.jpg");
     background-attachment: fixed;
     background-position: top center;
     width: 100%;
