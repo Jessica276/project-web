@@ -18,7 +18,7 @@ a{
     background-attachment: fixed;
     background-position: top center;
     width: 100%;
-    height: 570px;
+    height: 610px;
     margin-left: 0px;
 }
 .btn{
@@ -28,25 +28,39 @@ a{
     background-color: red;
     color: white;
     border-color: red;
+    font-size: 18px;
+    width: 200px;
+    height: 80px;
+    border-radius: 10px 10px 10px 10px;
+    cursor: pointer;
+    box-shadow: 20px;
 }
 .vid{
     color: white;
+
 }
 #bouton{
-    width: 15px;
+    width: 25px;
+    font-size: 25px;
 }
 
 nav li a{
     text-decoration : none;
 }
-nav li{
+nav{
+    display: flex;
+}
+.gui{
+    padding-top: 20px;
+}
+nav div li{
     display: inline-block;
     width : 120px;
-    text-align: center;
     line-height: 60px;
 }
 .rgt{
-    border: 3px solid white;
+    border: 1px solid white;
+    padding: 5px;
 }
 .droite{
     float: right;
@@ -60,6 +74,7 @@ div{
 }
 .dp{
     text-align: center;
+    font-size: 40px;
 }
 .more{
     padding-bottom: 0%;
@@ -106,4 +121,27 @@ footer li{
 }
 .btn a{
     text-decoration: none;
+}
+a:hover{
+    opacity: 1;
+    color: pink;
+
+}
+.gu{
+    font-size: 20px;
+    text-align: center;
+    opacity: 0.5;
+}
+.tete{
+    opacity: 0.7;
+}
+.bout{
+    font-size: 17px;
+    width: 150px;
+    height: 80px;
+    border-radius: 10px 10px 10px 10px;
+    cursor: pointer;
+}
+i{
+    font-size:  40px;
 }
