@@ -14,11 +14,11 @@ a{
     border-radius: 10px 10px 10px 10px;
 }
 .bloc{
-    background-image: url("pdc3.jpg");
+    background-image: url("../images/pdc3.jpg");
     background-attachment: fixed;
     background-position: top center;
     width: 100%;
-    height: 630px;
+    height: 500px;
     margin-left: 0px;
 }
 .btn{
